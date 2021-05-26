@@ -78,6 +78,27 @@ main > .tagline {
   min-height: 100%;
 
 }
+.dairesel{
+
+  border-radius: 50%;
+
+  overflow: hidden;
+
+  width: 150px;
+
+  height: 150px;
+
+}
+
+.dairesel img {
+
+  display: block;
+
+  min-width: 100%;
+
+  min-height: 100%;
+
+}
 .buyut{transition: all .2s ease-in-out;}
 
 .buyut:hover{transform: scale(1.2); }
