@@ -99,6 +99,10 @@ main > .tagline {
   min-height: 100%;
 
 }
-.buyut{transition: all .2s ease-in-out;}
+.buyut{
+	transition: all .2s ease-in-out;
+}
 
-.buyut:hover{transform: scale(1.2);}
+.buyut:hover{
+	transform: scale(1.2);
+}
