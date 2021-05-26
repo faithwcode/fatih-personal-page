@@ -1,6 +1,6 @@
-# Dev Açılış Sayfası
- # Hi my onepage personal website development phasein the
-# will be developed voluntarily, not original
+# copied to improve myself
+## Hi my onepage personal website development phasein the
+will be developed voluntarily, not original
 * Faithwcode Amateur Frontend Web Developer 
 
 
