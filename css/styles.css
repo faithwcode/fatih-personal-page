@@ -101,4 +101,4 @@ main > .tagline {
 }
 .buyut{transition: all .2s ease-in-out;}
 
-.buyut:hover{transform: scale(1.2); }
+.buyut:hover{transform: scale(1.2);}
