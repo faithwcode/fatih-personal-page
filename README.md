@@ -1,6 +1,7 @@
-# Dev Landing Page
-
-Minimal landing page for developers.
+# Dev Açılış Sayfası
+ # Hi my onepage personal website development phasein the
+# will be developed voluntarily, not original
+# Geliştiriciler için minimum açılış sayfası.
 
 Developers don't talk much. Their code does all the talking. So here's a minimal landing page for developers.
 
